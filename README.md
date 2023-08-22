@@ -1,7 +1,7 @@
 # pgweb-acara1
 Perencanaan produk web GIS dan Git 
 ___
-Nama : Yasin Manik Hawa
+Nama : Yasin Manik Manik Hawa
 
 NIM : 22/506181/SV/22104
 
